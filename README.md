@@ -27,12 +27,11 @@ A CS grad who likes building things that actually work, then figuring out why th
  </tr>
 </table>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n-avanthi&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="165" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-avanthi&layout=compact&theme=graywhite&hide_border=true" height="165" alt="top languages"/>
-</div>
+<!-- ## Github Stats -->
+<!-- <div align="center"> -->
+  <!-- <img src="https://github-stats-extended.vercel.app/api?username=n-avanthi&show_icons=true&theme=graywhite&hide_border=true" height="165" alt="stats graph"/> -->
+  <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=n-avanthi&layout=compact&theme=graywhite&hide_border=true" height="165" alt="top languages"/> -->
+<!-- </div> -->
 
 ## Reach Me
 
