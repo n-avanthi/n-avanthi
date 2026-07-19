@@ -1,8 +1,8 @@
-# Hi, I'm Avanthi 👋
+# Hey, I'm Avanthi!
 
-CS grad who likes building things that actually work, then figuring out why they didn't. I like taking CS out of the textbook and into things people can actually use.
+A CS grad who likes building things that actually work, then figuring out why they didn't.
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <table>
  <tr>
@@ -11,7 +11,7 @@ CS grad who likes building things that actually work, then figuring out why they
  </tr>
  <tr>
   <td><strong>Web Dev</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=html,css,js,react,flask,nodejs,django&theme=light"></td>
+  <td><img src="https://skillicons.dev/icons?i=css,react,flask,nodejs,django&theme=light"></td>
  </tr>
  <tr>
   <td><strong>Database</strong></td>
@@ -27,14 +27,14 @@ CS grad who likes building things that actually work, then figuring out why they
  </tr>
 </table>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=n-avanthi&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="165" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-avanthi&layout=compact&theme=graywhite&hide_border=true" height="165" alt="top languages"/>
 </div>
 
-## 📫 Reach Me
+## Reach Me
 
 <div align="center">
 
