@@ -1,6 +1,6 @@
 # Hey, I'm Avanthi!
 
-A CS grad who likes building things that actually work, then figuring out why they didn't.
+I solve problems I probably created myself.
 
 ## Languages & Tools
 
@@ -11,7 +11,7 @@ A CS grad who likes building things that actually work, then figuring out why th
  </tr>
  <tr>
   <td><strong>Web Dev</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=css,react,flask,nodejs,django&theme=light"></td>
+  <td><img src="https://skillicons.dev/icons?i=react,flask,nodejs&theme=light"></td>
  </tr>
  <tr>
   <td><strong>Database</strong></td>
